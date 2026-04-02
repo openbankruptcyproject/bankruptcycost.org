@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bankruptcycost.com/sitemap.xml
+
+Sitemap: https://bankruptcycost.org/sitemap.xml
