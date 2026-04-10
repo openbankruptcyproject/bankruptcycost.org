@@ -45,8 +45,8 @@ code{background:var(--surface);padding:0.15em 0.4em;border-radius:3px;font-size:
 .skip-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;padding:1rem;background:#238636;color:#fff;font-weight:600}
 .skip-link:focus{position:fixed;top:10px;left:10px;width:auto;height:auto;overflow:visible}
 header{background:var(--surface);border-bottom:1px solid var(--border);padding:2rem;text-align:center}
-header h1{color:#f0f6fc;font-size:1.8rem;margin-bottom:0.5rem}
-header h1 .accent{color:var(--accent)}
+header h1,header .logo{color:#f0f6fc;font-size:1.8rem;margin-bottom:0.5rem;font-weight:700;line-height:1.2}
+header h1 .accent,header .logo .accent{color:var(--accent)}
 header .subtitle{color:var(--text-muted);font-size:1rem}
 article{max-width:760px;margin:0 auto;padding:2rem}
 h2{color:#f0f6fc;font-size:1.3rem;margin:2rem 0 0.75rem;padding-bottom:0.4rem;border-bottom:1px solid var(--border)}
@@ -80,7 +80,7 @@ footer .links a{margin:0 0.75rem}
 .nav-toggle:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .nav-links{display:inline}
 @media(max-width:768px){
-  header h1{font-size:1.4rem}
+  header h1,header .logo{font-size:1.4rem}
   article{padding:1.25rem}
   .nav-toggle{display:inline-block;margin:0.25rem 0}
   .nav-links{display:none;text-align:left;padding:0.5rem 0}
@@ -255,7 +255,7 @@ footer .links a{margin:0 0.75rem}
 <script>document.addEventListener('DOMContentLoaded',function(){var b=document.querySelector('.nav-toggle');if(b)b.addEventListener('click',function(){var l=document.querySelector('.nav-links');l.classList.toggle('open');b.setAttribute('aria-expanded',l.classList.contains('open'))})});</script>
 
 <header role="banner">
-  <h1><a href="/" style="color:#f0f6fc;text-decoration:none">bankruptcy<span class="accent">cost</span>.org</a></h1>
+  <div class="logo"><a href="/" style="color:#f0f6fc;text-decoration:none">bankruptcy<span class="accent">cost</span>.org</a></div>
 <!-- QUICK ANSWER (bounce reduction) -->
 <div class="quick-answer" style="background:#161b22;border-left:4px solid #3fb950;border-radius:0 8px 8px 0;padding:1rem 1.25rem;margin:1rem 0 1.5rem;max-width:800px">
   <p style="color:#e6edf3;font-weight:600;font-size:1rem;margin:0;line-height:1.6"><span style="color:#3fb950">Quick answer:</span> <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> filing fee is $338. <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> is $313. Attorney fees range from $1,000-$4,000 depending on chapter and complexity.</p>
