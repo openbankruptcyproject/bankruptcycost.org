@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Bankruptcy Attorney Fees by State -- National Averages -- Bankruptcy Cost
+## Bankruptcy Attorney Fees by State - National Averages - Bankruptcy Cost
 Source: https://bankruptcycost.org/attorney-fees-by-state.html
 
 Skip to main content
@@ -33,7 +33,11 @@ Cost of Inaction
 
 bankruptcycost.com
 
-What bankruptcy attorneys charge across the country -- and why it varies so much
+What bankruptcy attorneys charge across the country - and why it varies so much
+
+Home›Bankruptcy Attorney Fees by State - National Averages
+
+Bankruptcy Attorney Fees by State - National Averages
 
 National Average Ranges
 
@@ -83,13 +87,13 @@ Urban attorneys typically charge 20-50% more than rural attorneys for the same t
 
 Cross-References
 
-Attorney fee basics -- How fees work in each chapter
+Attorney fee basics - How fees work in each chapter
 
-howmuchdoesbankruptcycost.org -- Complete cost breakdown
+howmuchdoesbankruptcycost.org - Complete cost breakdown
 
-howtofilebankruptcy.org -- Step-by-step filing guide
+howtofilebankruptcy.org - Step-by-step filing guide
 
-chapter7vs13.org -- Compare costs between chapters
+chapter7vs13.org - Compare costs between chapters
 
 Further Reading & Resources
 
@@ -154,7 +158,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-bankruptcycost.org -- Part of the Open Bankruptcy Project
+bankruptcycost.org - Part of the Open Bankruptcy Project
 
 Home
 Filing Fees
@@ -208,7 +212,7 @@ Free Means Test Calculator -- meanstest.org
 
 ---
 
-## Bankruptcy Attorney Fees: What to Expect - bankruptcycost.org -- Bankruptcy Cost
+## Bankruptcy Attorney Fees: What to Expect - bankruptcycost.org - Bankruptcy Cost
 Source: https://bankruptcycost.org/attorney-fees.html
 
 Skip to main content
@@ -229,7 +233,9 @@ Cost of NOT Filing
 
 bankruptcycost.com
 
-What bankruptcy actually costs -- filing fees, attorney fees, and everything in between
+What bankruptcy actually costs - filing fees, attorney fees, and everything in between
+
+Home›Bankruptcy Attorney Fees: What to Expect - bankruptcycost.org›bankruptcycost.org
 
 Bankruptcy Attorney Fees: What to Expect
 
@@ -245,28 +251,28 @@ Payment Timing
 Typical Upfront Amount
 
 Chapter 7
-$1,000 -- $2,500
+$1,000 - $2,500
 Before filing
 Full fee
 
 Chapter 13
-$2,500 -- $5,000
+$2,500 - $5,000
 Through the plan
-$0 -- $500
+$0 - $500
 
 Chapter 11
-$10,000 -- $50,000+
+$10,000 - $50,000+
 Administrative expense
 Large retainer
 
 Chapter 12
-$2,000 -- $5,000
+$2,000 - $5,000
 Through the plan
-$0 -- $500
+$0 - $500
 
 How Attorney Fees Work in Chapter 7
 
-Chapter 7 attorneys require payment in full before filing for a simple reason: the bankruptcy discharge eliminates most pre-filing debts. If an attorney had not been paid before the petition date, their unpaid fee would become a dischargeable debt -- meaning the client would owe them nothing after the case concludes.
+Chapter 7 attorneys require payment in full before filing for a simple reason: the bankruptcy discharge eliminates most pre-filing debts. If an attorney had not been paid before the petition date, their unpaid fee would become a dischargeable debt - meaning the client would owe them nothing after the case concludes.
 
 This creates a barrier for some filers. If you cannot afford $1,000 to $2,500 upfront, you have a few options:
 
@@ -292,7 +298,7 @@ Post-confirmation work: Some attorneys charge additional fees for work after pla
 
 What Are "No-Look" Fees?
 
-Many bankruptcy districts have established "no-look" fee guidelines -- a presumptive attorney fee amount that the court will approve without requiring detailed billing records. If an attorney charges at or below the no-look amount, the fee is approved as a matter of course.
+Many bankruptcy districts have established "no-look" fee guidelines - a presumptive attorney fee amount that the court will approve without requiring detailed billing records. If an attorney charges at or below the no-look amount, the fee is approved as a matter of course.
 
 No-look fees vary significantly by district. Examples:
 
@@ -314,9 +320,9 @@ Chapter 11 cases are significantly more complex and expensive. Attorney fees are
 
 Chapter 11 fees vary enormously:
 
-Small business Sub V cases: $10,000 -- $25,000 for straightforward cases
+Small business Sub V cases: $10,000 - $25,000 for straightforward cases
 
-Traditional Chapter 11: $25,000 -- $100,000+
+Traditional Chapter 11: $25,000 - $100,000+
 
 Large corporate cases: Millions of dollars (these are not relevant to most readers)
 
@@ -344,7 +350,7 @@ Fees significantly above the district average without clear justification
 
 Pressure to file immediately before you have gathered all required documents
 
-No written fee agreement -- always get the fee in writing before paying anything
+No written fee agreement - always get the fee in writing before paying anything
 
 Large non-refundable retainer with vague descriptions of what it covers
 
@@ -429,7 +435,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-bankruptcycost.org -- Part of the Open Bankruptcy Project
+bankruptcycost.org - Part of the Open Bankruptcy Project
 
 Home
 Filing Fees
@@ -484,7 +490,226 @@ Free Means Test Calculator -- meanstest.org
 
 ---
 
-## The Cost of NOT Filing Bankruptcy -- When Inaction Is More Expensive -- Bankruptcy Cost
+## Average Cost of Bankruptcy by State - Attorney Fees & Filing Costs [2026] - Bankruptcy Cost
+Source: https://bankruptcycost.org/average-cost-by-state.html
+
+Average Cost of Bankruptcy by State
+
+How much bankruptcy costs depends heavily on where you live
+
+Home » Average Cost by State
+
+National Average Bankruptcy Cost
+
+The average cost to file bankruptcy in the United States is approximately $1,800 for Chapter 7 and $4,200 for Chapter 13 (including filing fees, attorney fees, and credit counseling). But these national averages hide enormous regional variation - attorney fees alone can range from $500 to $4,000+ for Chapter 7 depending on your state and city.
+
+How Much Does Bankruptcy Cost by Region
+
+RegionCh. 7 Attorney FeeCh. 13 Attorney FeeCh. 7 Total
+
+Rural South/Midwest$500-$1,200$2,500-$3,500$900-$1,700
+
+Mid-size cities$1,000-$1,800$3,000-$4,000$1,400-$2,300
+
+Major metro areas$1,500-$2,500$3,500-$5,000$1,900-$2,900
+
+NYC / SF / LA$2,000-$4,000+$4,000-$6,000+$2,400-$4,400+
+
+Court filing fees are the same everywhere: $338 for Chapter 7, $313 for Chapter 13. The difference in total cost is almost entirely driven by attorney fees.
+
+What Drives Cost Differences Between States
+
+Three factors explain most of the variation in bankruptcy costs across states:
+
+Local attorney market: Areas with more bankruptcy attorneys have lower fees due to competition
+
+Court fee guidelines: Many districts set no-look fee amounts that cap what attorneys typically charge
+
+Cost of living: Attorney overhead (rent, staff, insurance) directly affects what they charge clients
+
+Bankruptcy Filing Fees: The Only Fixed Cost
+
+Bankruptcy filing fees are set by the Judicial Conference and are the same in every court: $338 for Chapter 7, $313 for Chapter 13, $1,738 for Chapter 11, and $306 for Chapter 12. These fees can be paid in installments (up to 4 payments over 120 days). The Chapter 7 filing fee can be waived entirely for filers with income below 150% of poverty guidelines.
+
+How to Find the Cheapest Bankruptcy Attorney
+
+Start by checking your district's no-look fee guideline on the bankruptcy court's website. This tells you what the court considers a reasonable fee. Then compare multiple attorneys - many offer free consultations. Ask about payment plans, flat fees vs. hourly billing, and what is included in the quoted price.
+
+For the lowest possible cost, consider filing without a lawyer or contacting legal aid for free representation.
+
+Frequently Asked Questions
+
+What is the average cost to file bankruptcy in 2026?
+
+The average cost to file Chapter 7 bankruptcy is approximately $1,800 total (filing fee + attorney + counseling). Chapter 13 averages about $4,200 in fees, with attorney fees paid through the repayment plan. Costs vary significantly by state and city.
+
+How much is it to file bankruptcy in a cheap state?
+
+In the least expensive states and rural areas, Chapter 7 can cost as little as $900-$1,200 total. Some attorneys in low-cost areas charge $500-$800 for straightforward Chapter 7 cases.
+
+How much does filing bankruptcy cost if I do it myself?
+
+Filing pro se reduces your cost to approximately $368-$438 total - just the $338 filing fee plus $30-$100 for the two required credit counseling courses. The filing fee may be waived for low-income filers.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code). District-level statistics from the Federal Judicial Center Integrated Database. This is educational content, not legal advice.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+How Much Does Bankruptcy Cost
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project.
+
+---
+
+## Chapter 13 Bankruptcy Cost - Attorney Fees, Filing Fees & Plan Payments [2026]
+Source: https://bankruptcycost.org/chapter-13-cost.html
+
+Chapter 13 Bankruptcy Cost
+
+What you will actually pay for a Chapter 13 case - and the hidden risk most attorneys do not emphasize
+
+Home » Chapter 13 Bankruptcy Cost
+
+Court Filing Fee: $313
+
+The Chapter 13 filing fee is $313. Unlike Chapter 7, the Chapter 13 filing fee cannot be waived - but it can be paid in up to four installments over 120 days (180 days with court approval). Use Official Form 103A to request installments.
+
+Attorney Fees: $3,000 - $5,000
+
+Chapter 13 attorney fees are higher because the attorney manages your case for 3-5 years. The critical difference from Chapter 7: attorney fees are typically paid through the Chapter 13 plan, meaning you may pay little or nothing upfront.
+
+Most districts set a no-look fee - a presumptive reasonable amount attorneys can charge without detailed justification. This ranges from $3,000 to $5,000 depending on the district. Attorneys can request more than the no-look amount by filing a detailed fee application.
+
+The Dismissal Risk Nobody Talks About
+
+Here is the cost reality most attorneys will not emphasize: 40-50% of Chapter 13 cases are dismissed before discharge. If your case is dismissed, you have paid thousands in attorney fees and plan payments - and received no discharge. The attorney gets paid even if your case is dismissed.
+
+This makes the true expected cost of Chapter 13 significantly higher than the sticker price. If you pay $4,000 in attorney fees and $15,000 in plan payments over 2 years before dismissal, you have spent $19,000 with nothing to show for it.
+
+Cost Comparison: Chapter 7 vs Chapter 13 vs Chapter 11
+
+Cost ComponentChapter 7Chapter 13Chapter 11 Sub V
+
+Court filing fee$338$313$1,738
+
+Attorney fees$1,000-$2,500$3,000-$5,000$10,000-$50,000
+
+Duration3-4 months3-5 years3-5 years
+
+Discharge rate93%+~40-50%Varies
+
+Total$1,400-$2,900$3,300-$5,400$12,000-$52,000
+
+Frequently Asked Questions
+
+How much does Chapter 13 bankruptcy cost in total?
+
+Chapter 13 costs $3,300 to $5,400 in attorney and court fees, plus your monthly plan payments over 3-5 years. The filing fee is $313, attorney fees range from $3,000 to $5,000 (usually paid through the plan), and credit counseling costs $30-$100.
+
+Do I have to pay a Chapter 13 attorney upfront?
+
+Usually not. Most Chapter 13 attorneys allow their fees to be paid through the repayment plan over 3-5 years. You may need to pay a small retainer ($0-$500) before filing, with the rest paid through monthly plan payments to the trustee.
+
+What happens to attorney fees if my Chapter 13 is dismissed?
+
+The attorney keeps whatever fees have been paid through the plan up to that point. If your case is dismissed after 2 years, the attorney may have received $2,000-$3,000 of their total fee. You do not get a refund for the dismissed case.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code). District-level statistics from the Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024). This is educational content, not legal advice.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+How Much Does Bankruptcy Cost
+Exemptions by State
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project.
+
+---
+
+## Chapter 7 Bankruptcy Cost - Filing Fees, Attorney Fees & Total Cost [2026]
+Source: https://bankruptcycost.org/chapter-7-cost.html
+
+Chapter 7 Bankruptcy Cost
+
+Complete breakdown of every fee you will pay in a Chapter 7 case
+
+Home » Chapter 7 Bankruptcy Cost
+
+Court Filing Fee: $338
+
+The Chapter 7 filing fee is $338 as of 2026. This is paid to the bankruptcy court clerk when you file your petition. Low-income filers with household income below 150% of the federal poverty guidelines can request a complete fee waiver using Form 103B. The court can also allow payment in up to four installments over 120 days.
+
+Attorney Fees: $1,000 - $2,500
+
+Chapter 7 attorney fees vary significantly by region. In rural areas, fees may be as low as $800-$1,200. In major metropolitan areas, expect $1,500-$3,000+. Most Chapter 7 attorneys require full payment before filing because the automatic stay prevents post-petition collection of pre-petition debts - including attorney fees.
+
+Many bankruptcy courts publish no-look fee guidelines that set a presumptive reasonable fee amount. You can check your district's guideline on the court's website.
+
+Credit Counseling: $30 - $100
+
+Two mandatory courses are required: pre-filing credit counseling ($15-$50, must be completed within 180 days before filing) and post-filing debtor education ($15-$50, completed after filing but before discharge). Both can be done online in 1-2 hours each. Many agencies offer fee waivers for low-income filers.
+
+Chapter 7 vs Chapter 13 Cost Comparison
+
+Cost ComponentChapter 7Chapter 13
+
+Court filing fee$338$313
+
+Attorney fees$1,000-$2,500$3,000-$5,000
+
+Credit counseling$30-$100$30-$100
+
+Payment timingAll upfrontThrough plan
+
+Total$1,400-$2,900$3,300-$5,400
+
+How to Reduce Chapter 7 Costs
+
+The cheapest way to file Chapter 7 is pro se (without an attorney). Your total cost can be as low as $368 - just the filing fee plus credit counseling. However, pro se Chapter 7 cases have higher dismissal rates due to paperwork complexity.
+
+Other cost-reduction strategies: fee waiver (Form 103B for income below 150% poverty), installment payments (up to 4 payments over 120 days), legal aid (free representation through LSC-funded organizations at lawhelp.org), and law school clinics that provide free bankruptcy representation.
+
+Frequently Asked Questions
+
+How much does it cost to file Chapter 7 bankruptcy in 2026?
+
+Chapter 7 bankruptcy costs $1,400 to $2,900 total. The court filing fee is $338, attorney fees range from $1,000 to $2,500, and credit counseling costs $30-$100 for two required courses. All fees must be paid before filing, though the court filing fee can be waived or paid in installments.
+
+Can I file Chapter 7 for free?
+
+The filing fee can be waived if your income is below 150% of federal poverty guidelines. Free legal representation is available through legal aid organizations and law school clinics. Credit counseling agencies may waive fees for low-income filers. So yes, it is possible to file Chapter 7 at zero cost.
+
+Why are Chapter 7 attorney fees so different in different cities?
+
+Attorney fees reflect local cost of living, competition, and court-set fee guidelines. In districts with many bankruptcy attorneys, competition keeps fees lower. Some courts publish no-look fee amounts that attorneys can charge without detailed justification.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code). District-level statistics from the Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024). This is educational content, not legal advice.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Open Bankruptcy Project
+How Much Does Bankruptcy Cost
+Exemptions by State
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project.
+
+---
+
+## The Cost of NOT Filing Bankruptcy - When Inaction Is More Expensive - Bankruptcy Cost
 Source: https://bankruptcycost.org/cost-of-doing-nothing.html
 
 Skip to main content
@@ -513,29 +738,33 @@ bankruptcycost.com
 
 When the cost of doing nothing exceeds the cost of filing
 
+Home›The Cost of NOT Filing Bankruptcy - When Inaction Is More E
+
+The Cost of NOT Filing Bankruptcy
+
 The Hidden Costs of Inaction
 
-Many people avoid bankruptcy because they focus on the cost of filing -- attorney fees, filing fees, credit counseling. But they overlook the cost of not filing. For many people, inaction is far more expensive.
+Many people avoid bankruptcy because they focus on the cost of filing - attorney fees, filing fees, credit counseling. But they overlook the cost of not filing. For many people, inaction is far more expensive.
 
 Compound Interest on Unpayable Debt
 
-Credit card debt at 25-30% APR doubles every 3-4 years if you make only minimum payments. A $20,000 credit card balance at 25% interest that you cannot pay down costs you $5,000 per year in interest alone. Over five years, that is $25,000 -- more than most Chapter 7 cases cost in total.
+Credit card debt at 25-30% APR doubles every 3-4 years if you make only minimum payments. A $20,000 credit card balance at 25% interest that you cannot pay down costs you $5,000 per year in interest alone. Over five years, that is $25,000 - more than most Chapter 7 cases cost in total.
 
 Example: $30,000 in credit card debt at 24% APR. Minimum payments of $600/month. After 5 years of minimum payments: you will have paid $36,000 and still owe $28,000. Filing Chapter 7 would have eliminated the entire balance for roughly $1,500-$2,500 in attorney and filing fees.
 
 Wage Garnishment
 
-If a creditor sues you and gets a judgment, they can garnish up to 25% of your disposable earnings in most states. For someone earning $4,000/month after taxes, that is $1,000/month taken directly from your paycheck -- $12,000 per year.
+If a creditor sues you and gets a judgment, they can garnish up to 25% of your disposable earnings in most states. For someone earning $4,000/month after taxes, that is $1,000/month taken directly from your paycheck - $12,000 per year.
 
 Bankruptcy stops all garnishment immediately through the automatic stay. Any garnished funds taken within 90 days before filing may be recoverable.
 
 Lawsuit Costs
 
-Defending a collection lawsuit -- even if you lose -- costs time and money. Missing work for court hearings, stress-related health costs, and the risk of a default judgment (which adds court costs and attorney fees to what you owe) all compound the damage.
+Defending a collection lawsuit - even if you lose - costs time and money. Missing work for court hearings, stress-related health costs, and the risk of a default judgment (which adds court costs and attorney fees to what you owe) all compound the damage.
 
 Foreclosure Deficiency
 
-In many states, if your home is foreclosed and sells for less than you owe, the lender can pursue you for the deficiency -- the difference. On a $200,000 mortgage where the home sells for $150,000 at foreclosure, you could face a $50,000 deficiency judgment, plus the lender's attorney fees.
+In many states, if your home is foreclosed and sells for less than you owe, the lender can pursue you for the deficiency - the difference. On a $200,000 mortgage where the home sells for $150,000 at foreclosure, you could face a $50,000 deficiency judgment, plus the lender's attorney fees.
 
 Bankruptcy can eliminate deficiency liability along with all other dischargeable debts.
 
@@ -569,7 +798,7 @@ Total one-time cost$1,368-$2,938
 
 Cross-References
 
-Cost of NOT filing -- detailed analysis
+Cost of NOT filing - detailed analysis
 
 howmuchdoesbankruptcycost.org
 
@@ -640,7 +869,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-bankruptcycost.org -- Part of the Open Bankruptcy Project
+bankruptcycost.org - Part of the Open Bankruptcy Project
 
 Home
 Filing Fees
@@ -694,7 +923,7 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## The Cost of NOT Filing Bankruptcy - bankruptcycost.org -- Bankruptcy Cost
+## The Cost of NOT Filing Bankruptcy - bankruptcycost.org - Bankruptcy Cost
 Source: https://bankruptcycost.org/cost-of-not-filing.html
 
 Skip to main content
@@ -715,7 +944,9 @@ Cost of NOT Filing
 
 bankruptcycost.com
 
-What bankruptcy actually costs -- filing fees, attorney fees, and everything in between
+What bankruptcy actually costs - filing fees, attorney fees, and everything in between
+
+Home›The Cost of NOT Filing Bankruptcy - bankruptcycost.org›bankruptcycost.org
 
 The Cost of NOT Filing Bankruptcy
 
@@ -725,7 +956,7 @@ People avoid bankruptcy because it feels expensive. But the real question is not
 
 For most people drowning in debt, the cost of continuing without bankruptcy protection far exceeds the cost of filing. This page puts real numbers to the cost of delay.
 
-Wage Garnishment: $3,000 -- $12,000+ per Year
+Wage Garnishment: $3,000 - $12,000+ per Year
 
 Once a creditor gets a court judgment against you, they can garnish your wages. Under federal law, creditors can take up to 25% of your disposable earnings (or the amount by which your weekly pay exceeds 30 times the federal minimum wage, whichever is less).
 
@@ -737,15 +968,15 @@ Over 3 years of delay: up to $30,000 taken from paychecks
 
 Multiple creditors: garnishments can stack, with each taking their turn
 
-The math: A Chapter 7 bankruptcy costs $1,400 -- $3,000 total and stops garnishment immediately through the automatic stay. One year of wage garnishment at $10,000 costs more than three bankruptcies. Every month you delay, you lose money that could have stayed in your pocket.
+The math: A Chapter 7 bankruptcy costs $1,400 - $3,000 total and stops garnishment immediately through the automatic stay. One year of wage garnishment at $10,000 costs more than three bankruptcies. Every month you delay, you lose money that could have stayed in your pocket.
 
-Vehicle Repossession: $5,000 -- $15,000+
+Vehicle Repossession: $5,000 - $15,000+
 
-If you fall behind on car payments, the lender can repossess your vehicle -- often without warning. The costs cascade quickly:
+If you fall behind on car payments, the lender can repossess your vehicle - often without warning. The costs cascade quickly:
 
-Repo fees: $300 -- $500 charged to you
+Repo fees: $300 - $500 charged to you
 
-Storage fees: $20 -- $50 per day while you try to recover the vehicle
+Storage fees: $20 - $50 per day while you try to recover the vehicle
 
 Auction loss: Repossessed vehicles sell at auction for far below market value (often 50-60% of retail)
 
@@ -757,13 +988,13 @@ Example: You owe $15,000 on a car worth $12,000. After repossession, it sells at
 
 Filing bankruptcy before repossession invokes the automatic stay, which prevents the lender from taking your vehicle while the case is active. In Chapter 13, you can cure arrears and keep the vehicle.
 
-Foreclosure: $20,000 -- $100,000+
+Foreclosure: $20,000 - $100,000+
 
 Losing your home to foreclosure is one of the most devastating financial events a family can experience:
 
 Lost equity: Whatever equity you have built over the years is at risk if the foreclosure sale price is low
 
-Relocation costs: Security deposits, first/last month rent, moving expenses: $3,000 -- $8,000
+Relocation costs: Security deposits, first/last month rent, moving expenses: $3,000 - $8,000
 
 Higher housing costs: Renters with foreclosures pay higher deposits and may be denied housing entirely
 
@@ -785,7 +1016,7 @@ Credit damage: Unpaid medical collections tank your credit score, increasing cos
 
 Lawsuit risk: Hospitals and collection agencies increasingly sue over unpaid medical bills, leading to garnishment
 
-Example: A $10,000 medical bill sent to collections becomes $13,000 with collection fees. A judgment adds post-judgment interest at 9% per year. After two years, you owe $15,340 -- all from an original $10,000 bill. That $10,000 bill would have been discharged in a $1,500 Chapter 7 bankruptcy.
+Example: A $10,000 medical bill sent to collections becomes $13,000 with collection fees. A judgment adds post-judgment interest at 9% per year. After two years, you owe $15,340 - all from an original $10,000 bill. That $10,000 bill would have been discharged in a $1,500 Chapter 7 bankruptcy.
 
 Lawsuit Judgments and Post-Judgment Interest
 
@@ -797,7 +1028,7 @@ Bank account levies (seizing money from your bank account)
 
 Property liens (attaching to real estate you own, including your home)
 
-These collection tools compound. A $5,000 credit card judgment at 10% post-judgment interest becomes $6,050 after two years -- and that is before garnishment, bank levies, and the attorney fees the creditor adds to the balance.
+These collection tools compound. A $5,000 credit card judgment at 10% post-judgment interest becomes $6,050 after two years - and that is before garnishment, bank levies, and the attorney fees the creditor adds to the balance.
 
 The Psychological and Health Cost
 
@@ -820,24 +1051,24 @@ Cost of Filing
 Cost of NOT Filing (1 Year)
 
 $30K credit card debt, garnishment
-$1,500 -- $2,500
-$7,500 -- $10,000 garnished
+$1,500 - $2,500
+$7,500 - $10,000 garnished
 
 $15K medical bills in collections
-$1,500 -- $2,500
+$1,500 - $2,500
 $3,750+ in fees and interest
 
 Car at risk of repossession
-$300 -- $500 upfront (Ch. 13)
-$5,000 -- $15,000 total loss
+$300 - $500 upfront (Ch. 13)
+$5,000 - $15,000 total loss
 
 Mortgage 3 months behind
-$300 -- $500 upfront (Ch. 13)
+$300 - $500 upfront (Ch. 13)
 $20,000+ equity at risk
 
 Multiple lawsuits pending
-$1,500 -- $2,500
-$5,000 -- $20,000+ in judgments
+$1,500 - $2,500
+$5,000 - $20,000+ in judgments
 
 When NOT Filing Might Be the Right Choice
 
@@ -851,7 +1082,7 @@ The statute of limitations has passed: Old debts may be uncollectible. Filing ba
 
 You are close to paying off debts: If you are 6 months from being debt-free, the finish line may be more cost-effective than filing.
 
-For everyone else -- the people losing sleep over collection calls, watching garnishments eat their paychecks, or facing the loss of their car or home -- the cost of filing bankruptcy is almost always less than the cost of waiting.
+For everyone else - the people losing sleep over collection calls, watching garnishments eat their paychecks, or facing the loss of their car or home - the cost of filing bankruptcy is almost always less than the cost of waiting.
 
 Take the first step: Most bankruptcy attorneys offer free initial consultations. You can also check any attorney's track record before you hire them using 1328f.com's free attorney checker. See the complete cost breakdown to understand what you will pay.
 
@@ -918,7 +1149,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-bankruptcycost.org -- Part of the Open Bankruptcy Project
+bankruptcycost.org - Part of the Open Bankruptcy Project
 
 Home
 Filing Fees
@@ -973,7 +1204,7 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## Can I File Bankruptcy for Free? Fee Waivers and Installment Plans - bankruptcycost.org -- Bankruptcy Cost
+## Can I File Bankruptcy for Free? Fee Waivers and Installment Plans - bankruptcycost.org - Bankruptcy Cost
 Source: https://bankruptcycost.org/fee-waiver.html
 
 Skip to main content
@@ -994,7 +1225,9 @@ Cost of NOT Filing
 
 bankruptcycost.com
 
-What bankruptcy actually costs -- filing fees, attorney fees, and everything in between
+What bankruptcy actually costs - filing fees, attorney fees, and everything in between
+
+Home›Can I File Bankruptcy for Free? Fee Waivers and Installment Plans - bankruptcycost.org›bankruptcycost.org
 
 Can I File Bankruptcy for Free? Fee Waivers and Installment Plans
 
@@ -1066,7 +1299,7 @@ The first payment is due at filing (can be as low as 25% of the total fee)
 
 No interest is charged
 
-Installment Schedule Example (Chapter 13 -- $313)
+Installment Schedule Example (Chapter 13 - $313)
 
 Payment
 Amount
@@ -1080,7 +1313,7 @@ Due Date
 
 4th installment$78.25Within 120 days
 
-Warning: While paying in installments, you are prohibited from paying any other fees to anyone -- including your attorney -- until the filing fee is fully paid. This rule exists in Federal Rule of Bankruptcy Procedure 1006(b)(3). If you violate this rule, the court can dismiss your case.
+Warning: While paying in installments, you are prohibited from paying any other fees to anyone - including your attorney - until the filing fee is fully paid. This rule exists in Federal Rule of Bankruptcy Procedure 1006(b)(3). If you violate this rule, the court can dismiss your case.
 
 Option 3: Legal Aid (Free Attorney Representation)
 
@@ -1090,7 +1323,7 @@ How to Find Legal Aid
 
 LawHelp.org: Enter your zip code to find legal aid organizations in your area
 
-Legal Services Corporation (LSC): The largest funder of civil legal aid in the U.S. -- lsc.gov/get-legal-help
+Legal Services Corporation (LSC): The largest funder of civil legal aid in the U.S. - lsc.gov/get-legal-help
 
 Local bar association: Most bar associations maintain pro bono referral programs
 
@@ -1145,11 +1378,11 @@ $0
 Very low income, Chapter 7
 
 Legal aid + installments
-$78 -- $85
+$78 - $85
 Low income, any chapter
 
 Chapter 13 + installments
-$78 -- $500
+$78 - $500
 Regular income, attorney paid through plan
 
 Pro se + fee waiver
@@ -1157,12 +1390,12 @@ $0
 Very low income (high risk)
 
 Pro se + installments
-$78 -- $85
+$78 - $85
 Budget-constrained (high risk)
 
 The bottom line: being unable to afford a bankruptcy attorney is not a reason to delay filing. There are real options for reducing costs to near zero. Start by contacting legal aid in your area, then explore fee waivers and installment plans.
 
-Before hiring an attorney: Check their case outcomes first. 1328f.com's free attorney checker shows how an attorney's cases have actually turned out -- dismissal rates, completion rates, and more. A cheap attorney with a 60% dismissal rate is no bargain.
+Before hiring an attorney: Check their case outcomes first. 1328f.com's free attorney checker shows how an attorney's cases have actually turned out - dismissal rates, completion rates, and more. A cheap attorney with a 60% dismissal rate is no bargain.
 
 Further Reading & Resources
 
@@ -1227,7 +1460,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-bankruptcycost.org -- Part of the Open Bankruptcy Project
+bankruptcycost.org - Part of the Open Bankruptcy Project
 
 Home
 Filing Fees
@@ -1280,7 +1513,7 @@ Free Means Test Calculator -- meanstest.org
 
 ---
 
-## Bankruptcy Filing Fee Waiver -- Income Requirements and Form 103B -- Bankruptcy Cost
+## Bankruptcy Filing Fee Waiver - Income Requirements and Form 103B - Bankruptcy Cost
 Source: https://bankruptcycost.org/filing-fee-waiver.html
 
 Skip to main content
@@ -1308,6 +1541,10 @@ Cost of Inaction
 bankruptcycost.com
 
 How to reduce or eliminate the court filing fee based on income
+
+Home›Bankruptcy Filing Fee Waiver - Income Requirements and Form
+
+Bankruptcy Filing Fee Waiver - Income Requirements and Form 103B
 
 Who Qualifies for a Fee Waiver?
 
@@ -1365,7 +1602,7 @@ howmuchdoesbankruptcycost.org
 
 howtofilebankruptcy.org
 
-prosedebtors.org -- Resources for self-represented filers
+prosedebtors.org - Resources for self-represented filers
 
 Further Reading & Resources
 
@@ -1430,7 +1667,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-bankruptcycost.org -- Part of the Open Bankruptcy Project
+bankruptcycost.org - Part of the Open Bankruptcy Project
 
 Home
 Filing Fees
@@ -1484,7 +1721,7 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## Bankruptcy Filing Fees by Chapter (2024-2026) - bankruptcycost.org -- Bankruptcy Cost
+## Bankruptcy Filing Fees by Chapter (2024-2026) - bankruptcycost.org - Bankruptcy Cost
 Source: https://bankruptcycost.org/filing-fees.html
 
 Skip to main content
@@ -1505,7 +1742,9 @@ Cost of NOT Filing
 
 bankruptcycost.com
 
-What bankruptcy actually costs -- filing fees, attorney fees, and everything in between
+What bankruptcy actually costs - filing fees, attorney fees, and everything in between
+
+Home›Bankruptcy Filing Fees by Chapter (2024-2026) - bankruptcycost.org›bankruptcycost.org
 
 Bankruptcy Filing Fees by Chapter (2024-2026)
 
@@ -1713,7 +1952,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-bankruptcycost.org -- Part of the Open Bankruptcy Project
+bankruptcycost.org - Part of the Open Bankruptcy Project
 
 Home
 Filing Fees
@@ -1766,7 +2005,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Hidden Costs of Bankruptcy You Should Know About - bankruptcycost.org -- Bankruptcy Cost
+## Hidden Costs of Bankruptcy You Should Know About - bankruptcycost.org - Bankruptcy Cost
 Source: https://bankruptcycost.org/hidden-costs.html
 
 Skip to main content
@@ -1787,15 +2026,17 @@ Cost of NOT Filing
 
 bankruptcycost.com
 
-What bankruptcy actually costs -- filing fees, attorney fees, and everything in between
+What bankruptcy actually costs - filing fees, attorney fees, and everything in between
+
+Home›Hidden Costs of Bankruptcy You Should Know About - bankruptcycost.org›bankruptcycost.org
 
 Hidden Costs of Bankruptcy You Should Know About
 
 Last updated: March 2026
 
-Most guides to bankruptcy cost only mention the filing fee and attorney fee. But there are several additional expenses -- some mandatory, some easy to overlook -- that add to your total out-of-pocket cost. Here is every hidden cost you should plan for.
+Most guides to bankruptcy cost only mention the filing fee and attorney fee. But there are several additional expenses - some mandatory, some easy to overlook - that add to your total out-of-pocket cost. Here is every hidden cost you should plan for.
 
-Mandatory: Credit Counseling ($15 -- $50)
+Mandatory: Credit Counseling ($15 - $50)
 
 Before you can file any bankruptcy case, you must complete a credit counseling course from an agency approved by the U.S. Trustee Program. This requirement was added by the 2005 BAPCPA amendments (11 U.S.C. Section 109(h)).
 
@@ -1813,7 +2054,7 @@ The counseling session covers budgeting, debt management alternatives, and wheth
 
 Tip: Some approved agencies waive or reduce the fee if your income is below the poverty line. The U.S. Trustee's website maintains a list of approved credit counseling agencies organized by state.
 
-Mandatory: Debtor Education ($15 -- $50)
+Mandatory: Debtor Education ($15 - $50)
 
 After filing, you must complete a financial management (debtor education) course before receiving your discharge. This is a separate requirement from the pre-filing credit counseling.
 
@@ -1827,7 +2068,7 @@ Timing: Must be completed after filing but before discharge
 
 Deadline: Chapter 7: within 60 days of the 341 Meeting; Chapter 13: before the last plan payment
 
-Failure to complete the debtor education course will prevent the court from granting your discharge -- even if everything else in your case goes perfectly. Do not skip or delay this step.
+Failure to complete the debtor education course will prevent the court from granting your discharge - even if everything else in your case goes perfectly. Do not skip or delay this step.
 
 Document Gathering and Preparation
 
@@ -1838,7 +2079,7 @@ Potential Cost
 Notes
 
 Tax returns (last 2-4 years)
-$0 -- $50
+$0 - $50
 Free from IRS.gov; paid if using a tax preparer
 
 Pay stubs (6 months)
@@ -1846,7 +2087,7 @@ $0
 Usually available from employer or payroll system
 
 Bank statements (6 months)
-$0 -- $25
+$0 - $25
 Free online; some banks charge for paper copies
 
 Vehicle valuations
@@ -1854,7 +2095,7 @@ $0
 NADA or KBB online (courts typically use NADA)
 
 Property appraisal
-$0 -- $400
+$0 - $400
 Only needed if real estate equity is significant
 
 Credit reports
@@ -1862,7 +2103,7 @@ $0
 Free from annualcreditreport.com
 
 Copying and printing
-$10 -- $30
+$10 - $30
 For documents that need to be provided to your attorney
 
 Your attorney will provide a checklist of required documents. Being organized and thorough from the start can save time and reduce attorney fees for cases billed hourly.
@@ -1929,22 +2170,22 @@ Hidden Cost
 Amount
 Mandatory?
 
-Credit counseling (pre-filing)$15 -- $50Yes
+Credit counseling (pre-filing)$15 - $50Yes
 
-Debtor education (post-filing)$15 -- $50Yes
+Debtor education (post-filing)$15 - $50Yes
 
-Document gathering$0 -- $100Practically yes
+Document gathering$0 - $100Practically yes
 
-Lost wages (hearings)$80 -- $500Varies
+Lost wages (hearings)$80 - $500Varies
 
 Credit impact (higher rates)VariesIndirect
 
-Amended schedules$100 -- $300Only if needed
+Amended schedules$100 - $300Only if needed
 
 Typical total hidden costs
-$110 -- $700
+$110 - $700
 
-Perspective: These hidden costs add $110 to $700 to your total bankruptcy expense. That sounds significant until you compare it to the cost of NOT filing -- ongoing garnishments, repossessions, and compounding debt. Read the cost of not filing for the full comparison.
+Perspective: These hidden costs add $110 to $700 to your total bankruptcy expense. That sounds significant until you compare it to the cost of NOT filing - ongoing garnishments, repossessions, and compounding debt. Read the cost of not filing for the full comparison.
 
 Further Reading & Resources
 
@@ -2009,7 +2250,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-bankruptcycost.org -- Part of the Open Bankruptcy Project
+bankruptcycost.org - Part of the Open Bankruptcy Project
 
 Home
 Filing Fees
@@ -2062,7 +2303,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Bankruptcy Cost -- How to Reduce What You Pay [2026 Guide]
+## Bankruptcy Cost - How to Reduce What You Pay [2026 Guide]
 Source: https://bankruptcycost.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -2089,19 +2330,19 @@ Ch.13 Cost
 |
 Cost by State
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 bankruptcycost.org
 
 Quick answer: Chapter 7 filing fee is $338. Chapter 13 is $313. Attorney fees range from $1,000-$4,000 depending on chapter and complexity.
 
-How to pay less for bankruptcy -- fee waivers, legal aid, and cost-saving strategies
+How to pay less for bankruptcy - fee waivers, legal aid, and cost-saving strategies
 
 How to Reduce Bankruptcy Costs
 
 Last updated: April 2026 | For a complete cost overview, see bankruptcycost.com
 
-Bankruptcy is one of the most powerful financial tools available to consumers, but cost is the most common reason people delay filing -- or avoid it entirely. The reality is that most people can significantly reduce what they pay, and some can file for free. This page covers every legitimate strategy for lowering your bankruptcy costs.
+Bankruptcy is one of the most powerful financial tools available to consumers, but cost is the most common reason people delay filing - or avoid it entirely. The reality is that most people can significantly reduce what they pay, and some can file for free. This page covers every legitimate strategy for lowering your bankruptcy costs.
 
 Whether you qualify for a complete fee waiver, need an installment plan, or want to find free legal representation, there is almost always a way to make bankruptcy affordable. The key is knowing what options exist and which ones apply to your situation.
 
@@ -2157,17 +2398,17 @@ Free bankruptcy attorneys exist. They are not easy to find, and there are often 
 
 Where to Find Free Bankruptcy Help
 
-LawHelp.org -- the Legal Services Corporation's directory of legal aid organizations. Search by state and select "bankruptcy" as the topic. This is the single best starting point.
+LawHelp.org - the Legal Services Corporation's directory of legal aid organizations. Search by state and select "bankruptcy" as the topic. This is the single best starting point.
 
-Local bar association volunteer lawyer programs -- many bar associations run pro bono panels where private attorneys take bankruptcy cases for free. Call your county or state bar association and ask about bankruptcy pro bono programs.
+Local bar association volunteer lawyer programs - many bar associations run pro bono panels where private attorneys take bankruptcy cases for free. Call your county or state bar association and ask about bankruptcy pro bono programs.
 
-Law school clinics -- dozens of law schools operate bankruptcy clinics where supervised law students handle real cases. Cases are handled carefully under faculty supervision and the service is free. Check law schools in your area.
+Law school clinics - dozens of law schools operate bankruptcy clinics where supervised law students handle real cases. Cases are handled carefully under faculty supervision and the service is free. Check law schools in your area.
 
-Nonprofit credit counseling agencies -- some DOJ-approved agencies offer more than just the mandatory counseling course. A few provide bankruptcy preparation assistance or can refer you to pro bono attorneys.
+Nonprofit credit counseling agencies - some DOJ-approved agencies offer more than just the mandatory counseling course. A few provide bankruptcy preparation assistance or can refer you to pro bono attorneys.
 
 What Free Attorneys Will and Will Not Do
 
-Legal aid bankruptcy attorneys typically handle straightforward consumer cases -- Chapter 7 with limited assets and no adversary proceedings. They generally will not take cases involving:
+Legal aid bankruptcy attorneys typically handle straightforward consumer cases - Chapter 7 with limited assets and no adversary proceedings. They generally will not take cases involving:
 
 Business bankruptcies or complex asset structures
 
@@ -2177,7 +2418,7 @@ Cases where the debtor does not pass the bankruptcy means test guide
 
 Chapter 13 cases (though some legal aid offices do handle these)
 
-Even if legal aid cannot take your full case, many offer "limited scope" help -- reviewing your petition, answering questions, or attending the what to expect at the 341 meeting with you.
+Even if legal aid cannot take your full case, many offer "limited scope" help - reviewing your petition, answering questions, or attending the what to expect at the 341 meeting with you.
 
 Strategy 4: Filing Pro Se (Without an Attorney)
 
@@ -2211,7 +2452,7 @@ Strategy 5: Reduce Mandatory Course Costs
 
 Bankruptcy requires two mandatory courses: pre-filing credit counseling and post-filing debtor education. Each typically costs $15-50, but you can reduce or eliminate these costs:
 
-Ask about fee waivers: Many DOJ-approved agencies waive fees for low-income individuals. You must ask -- they rarely volunteer this information.
+Ask about fee waivers: Many DOJ-approved agencies waive fees for low-income individuals. You must ask - they rarely volunteer this information.
 
 Compare providers: Prices vary significantly between approved agencies. Check the DOJ's approved list and compare several before choosing.
 
@@ -2233,7 +2474,7 @@ Check "no-look" fee amounts: In Chapter 13, many districts have a presumptively 
 
 Verify your attorney's track record: An attorney who charges $1,500 but gets 95% of their clients discharged is a better value than one who charges $1,000 with a 60% success rate. Check outcomes at 1328f.com's free attorney checker.
 
-Warning -- "no money down" bankruptcy firms: Some high-volume firms advertise zero upfront cost for Chapter 13, which is technically possible since fees can be paid through the plan. But these firms often handle hundreds of cases simultaneously with minimal individual attention. Research shows that high-volume "mill" practices have significantly higher dismissal rates. A low upfront cost does not guarantee good representation.
+Warning - "no money down" bankruptcy firms: Some high-volume firms advertise zero upfront cost for Chapter 13, which is technically possible since fees can be paid through the plan. But these firms often handle hundreds of cases simultaneously with minimal individual attention. Research shows that high-volume "mill" practices have significantly higher dismissal rates. A low upfront cost does not guarantee good representation.
 
 Strategy 7: Time Your Filing Strategically
 
@@ -2265,21 +2506,21 @@ Cost of Not Filing
 Typical Annual Cost
 
 Wage garnishment (25% of disposable income)
-$5,000 -- $15,000/year
+$5,000 - $15,000/year
 
 Interest on unpaid debts
-$2,000 -- $8,000/year
+$2,000 - $8,000/year
 
 Late fees and penalties
-$500 -- $2,000/year
+$500 - $2,000/year
 
 Collection lawsuits (judgment + costs)
-$1,000 -- $5,000 per suit
+$1,000 - $5,000 per suit
 
 Vehicle repossession (deficiency balance)
-$5,000 -- $15,000 one-time
+$5,000 - $15,000 one-time
 
-A $1,500 bankruptcy that eliminates $30,000 in debt is not an expense -- it is the highest-return investment most people will ever make. For the full analysis, see The Cost of NOT Filing Bankruptcy.
+A $1,500 bankruptcy that eliminates $30,000 in debt is not an expense - it is the highest-return investment most people will ever make. For the full analysis, see The Cost of NOT Filing Bankruptcy.
 
 Frequently Asked Questions
 
@@ -2297,7 +2538,7 @@ Yes, in all chapters. Use Official Form 103A to request up to four payments over
 
 Is it cheaper to file bankruptcy without a lawyer?
 
-Yes -- pro se filing eliminates attorney fees ($1,000 to $5,000), dropping total costs to under $500. But pro se cases have much higher dismissal rates, especially in Chapter 13 (up to 70% in some districts). A dismissed case means you paid the fee and got nothing. Pro se works best for simple Chapter 7 cases.
+Yes - pro se filing eliminates attorney fees ($1,000 to $5,000), dropping total costs to under $500. But pro se cases have much higher dismissal rates, especially in Chapter 13 (up to 70% in some districts). A dismissed case means you paid the fee and got nothing. Pro se works best for simple Chapter 7 cases.
 
 Can I get free credit counseling courses?
 
@@ -2308,7 +2549,7 @@ Further Reading & Resources
 Authority sources for reducing bankruptcy costs:
 
 Find Free Legal Aid
-LSC legal aid directory -- search by state
+LSC legal aid directory - search by state
 
 Fee Waiver Application (Form 103B)
 Official form for Chapter 7 fee waivers
@@ -2317,13 +2558,13 @@ Installment Payment Application (Form 103A)
 Official form for installment payments
 
 Approved Credit Counseling Agencies
-DOJ list -- compare prices and fee waivers
+DOJ list - compare prices and fee waivers
 
 CFPB: What Is Bankruptcy?
 Consumer Financial Protection Bureau guide
 
 Complete Bankruptcy Cost Breakdown
-bankruptcycost.com -- filing fees, attorney fees, total costs by chapter
+bankruptcycost.com - filing fees, attorney fees, total costs by chapter
 
 Related Guides
 
@@ -2353,7 +2594,7 @@ meanstest.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -2417,7 +2658,7 @@ Browse Your State's Exemptions →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-bankruptcycost.org -- Part of the Open Bankruptcy Project
+bankruptcycost.org - Part of the Open Bankruptcy Project
 
 Home
 Filing Fees
@@ -2442,6 +2683,10 @@ This site provides general information only and does not constitute legal advice
 Privacy | Terms | Open Bankruptcy Project
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Rule 9037 PII Scanner - Free open-source tool to detect unredacted personal information in court filings
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -2535,219 +2780,72 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Chapter 7 Bankruptcy Cost -- Filing Fees, Attorney Fees & Total Cost [2026]
-Source: https://bankruptcycost.org/chapter-7-cost.html
+## Privacy Policy - bankruptcycost.org
+Source: https://bankruptcycost.org/privacy.html
 
-Chapter 7 Bankruptcy Cost
+bankruptcycost.org
 
-Complete breakdown of every fee you will pay in a Chapter 7 case
+Home
+Privacy
 
-Home » Chapter 7 Bankruptcy Cost
+Privacy Policy
 
-Court Filing Fee: $338
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
 
-The Chapter 7 filing fee is $338 as of 2026. This is paid to the bankruptcy court clerk when you file your petition. Low-income filers with household income below 150% of the federal poverty guidelines can request a complete fee waiver using Form 103B. The court can also allow payment in up to four installments over 120 days.
+Data We Collect
 
-Attorney Fees: $1,000 - $2,500
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
 
-Chapter 7 attorney fees vary significantly by region. In rural areas, fees may be as low as $800-$1,200. In major metropolitan areas, expect $1,500-$3,000+. Most Chapter 7 attorneys require full payment before filing because the automatic stay prevents post-petition collection of pre-petition debts -- including attorney fees.
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
 
-Many bankruptcy courts publish no-look fee guidelines that set a presumptive reasonable fee amount. You can check your district's guideline on the court's website.
+What We Don't Do
 
-Credit Counseling: $30 - $100
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
 
-Two mandatory courses are required: pre-filing credit counseling ($15-$50, must be completed within 180 days before filing) and post-filing debtor education ($15-$50, completed after filing but before discharge). Both can be done online in 1-2 hours each. Many agencies offer fee waivers for low-income filers.
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
 
-Chapter 7 vs Chapter 13 Cost Comparison
+Cookies
 
-Cost ComponentChapter 7Chapter 13
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
 
-Court filing fee$338$313
+Third-Party Services
 
-Attorney fees$1,000-$2,500$3,000-$5,000
+Google Analytics (GA4) - aggregate traffic measurement
 
-Credit counseling$30-$100$30-$100
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
 
-Payment timingAll upfrontThrough plan
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
 
-Total$1,400-$2,900$3,300-$5,400
+GitHub Pages - hosting
 
-How to Reduce Chapter 7 Costs
+Contact Forms & Email
 
-The cheapest way to file Chapter 7 is pro se (without an attorney). Your total cost can be as low as $368 -- just the filing fee plus credit counseling. However, pro se Chapter 7 cases have higher dismissal rates due to paperwork complexity.
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
 
-Other cost-reduction strategies: fee waiver (Form 103B for income below 150% poverty), installment payments (up to 4 payments over 120 days), legal aid (free representation through LSC-funded organizations at lawhelp.org), and law school clinics that provide free bankruptcy representation.
+Children's Privacy
 
-Frequently Asked Questions
+This site is not directed at children under 13. We do not knowingly collect information from children.
 
-How much does it cost to file Chapter 7 bankruptcy in 2026?
+Data Retention
 
-Chapter 7 bankruptcy costs $1,400 to $2,900 total. The court filing fee is $338, attorney fees range from $1,000 to $2,500, and credit counseling costs $30-$100 for two required courses. All fees must be paid before filing, though the court filing fee can be waived or paid in installments.
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
 
-Can I file Chapter 7 for free?
+Your Rights
 
-The filing fee can be waived if your income is below 150% of federal poverty guidelines. Free legal representation is available through legal aid organizations and law school clinics. Credit counseling agencies may waive fees for low-income filers. So yes, it is possible to file Chapter 7 at zero cost.
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
 
-Why are Chapter 7 attorney fees so different in different cities?
+Network Policy
 
-Attorney fees reflect local cost of living, competition, and court-set fee guidelines. In districts with many bankruptcy attorneys, competition keeps fees lower. Some courts publish no-look fee amounts that attorneys can charge without detailed justification.
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
-Check your bankruptcy discharge eligibility with our free screening tool.
+Changes
 
-Free Discharge Screener
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
 
-About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code). District-level statistics from the Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024). This is educational content, not legal advice.
+Effective: March 30, 2026  |  Updated: April 11, 2026
 
-Part of the Bankruptcy Transparency Network
+Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Discharge Screener
-Open Bankruptcy Project
-How Much Does Bankruptcy Cost
-Exemptions by State
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
 
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project.
-
----
-
-## Chapter 13 Bankruptcy Cost -- Attorney Fees, Filing Fees & Plan Payments [2026]
-Source: https://bankruptcycost.org/chapter-13-cost.html
-
-Chapter 13 Bankruptcy Cost
-
-What you will actually pay for a Chapter 13 case -- and the hidden risk most attorneys do not emphasize
-
-Home » Chapter 13 Bankruptcy Cost
-
-Court Filing Fee: $313
-
-The Chapter 13 filing fee is $313. Unlike Chapter 7, the Chapter 13 filing fee cannot be waived -- but it can be paid in up to four installments over 120 days (180 days with court approval). Use Official Form 103A to request installments.
-
-Attorney Fees: $3,000 - $5,000
-
-Chapter 13 attorney fees are higher because the attorney manages your case for 3-5 years. The critical difference from Chapter 7: attorney fees are typically paid through the Chapter 13 plan, meaning you may pay little or nothing upfront.
-
-Most districts set a no-look fee -- a presumptive reasonable amount attorneys can charge without detailed justification. This ranges from $3,000 to $5,000 depending on the district. Attorneys can request more than the no-look amount by filing a detailed fee application.
-
-The Dismissal Risk Nobody Talks About
-
-Here is the cost reality most attorneys will not emphasize: 40-50% of Chapter 13 cases are dismissed before discharge. If your case is dismissed, you have paid thousands in attorney fees and plan payments -- and received no discharge. The attorney gets paid even if your case is dismissed.
-
-This makes the true expected cost of Chapter 13 significantly higher than the sticker price. If you pay $4,000 in attorney fees and $15,000 in plan payments over 2 years before dismissal, you have spent $19,000 with nothing to show for it.
-
-Cost Comparison: Chapter 7 vs Chapter 13 vs Chapter 11
-
-Cost ComponentChapter 7Chapter 13Chapter 11 Sub V
-
-Court filing fee$338$313$1,738
-
-Attorney fees$1,000-$2,500$3,000-$5,000$10,000-$50,000
-
-Duration3-4 months3-5 years3-5 years
-
-Discharge rate93%+~40-50%Varies
-
-Total$1,400-$2,900$3,300-$5,400$12,000-$52,000
-
-Frequently Asked Questions
-
-How much does Chapter 13 bankruptcy cost in total?
-
-Chapter 13 costs $3,300 to $5,400 in attorney and court fees, plus your monthly plan payments over 3-5 years. The filing fee is $313, attorney fees range from $3,000 to $5,000 (usually paid through the plan), and credit counseling costs $30-$100.
-
-Do I have to pay a Chapter 13 attorney upfront?
-
-Usually not. Most Chapter 13 attorneys allow their fees to be paid through the repayment plan over 3-5 years. You may need to pay a small retainer ($0-$500) before filing, with the rest paid through monthly plan payments to the trustee.
-
-What happens to attorney fees if my Chapter 13 is dismissed?
-
-The attorney keeps whatever fees have been paid through the plan up to that point. If your case is dismissed after 2 years, the attorney may have received $2,000-$3,000 of their total fee. You do not get a refund for the dismissed case.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-
-Free Discharge Screener
-
-About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code). District-level statistics from the Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024). This is educational content, not legal advice.
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener
-How Much Does Bankruptcy Cost
-Exemptions by State
-
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project.
-
----
-
-## Average Cost of Bankruptcy by State -- Attorney Fees & Filing Costs [2026] -- Bankruptcy Cost
-Source: https://bankruptcycost.org/average-cost-by-state.html
-
-Average Cost of Bankruptcy by State
-
-How much bankruptcy costs depends heavily on where you live
-
-Home » Average Cost by State
-
-National Average Bankruptcy Cost
-
-The average cost to file bankruptcy in the United States is approximately $1,800 for Chapter 7 and $4,200 for Chapter 13 (including filing fees, attorney fees, and credit counseling). But these national averages hide enormous regional variation -- attorney fees alone can range from $500 to $4,000+ for Chapter 7 depending on your state and city.
-
-How Much Does Bankruptcy Cost by Region
-
-RegionCh. 7 Attorney FeeCh. 13 Attorney FeeCh. 7 Total
-
-Rural South/Midwest$500-$1,200$2,500-$3,500$900-$1,700
-
-Mid-size cities$1,000-$1,800$3,000-$4,000$1,400-$2,300
-
-Major metro areas$1,500-$2,500$3,500-$5,000$1,900-$2,900
-
-NYC / SF / LA$2,000-$4,000+$4,000-$6,000+$2,400-$4,400+
-
-Court filing fees are the same everywhere: $338 for Chapter 7, $313 for Chapter 13. The difference in total cost is almost entirely driven by attorney fees.
-
-What Drives Cost Differences Between States
-
-Three factors explain most of the variation in bankruptcy costs across states:
-
-Local attorney market: Areas with more bankruptcy attorneys have lower fees due to competition
-
-Court fee guidelines: Many districts set no-look fee amounts that cap what attorneys typically charge
-
-Cost of living: Attorney overhead (rent, staff, insurance) directly affects what they charge clients
-
-Bankruptcy Filing Fees: The Only Fixed Cost
-
-Bankruptcy filing fees are set by the Judicial Conference and are the same in every court: $338 for Chapter 7, $313 for Chapter 13, $1,738 for Chapter 11, and $306 for Chapter 12. These fees can be paid in installments (up to 4 payments over 120 days). The Chapter 7 filing fee can be waived entirely for filers with income below 150% of poverty guidelines.
-
-How to Find the Cheapest Bankruptcy Attorney
-
-Start by checking your district's no-look fee guideline on the bankruptcy court's website. This tells you what the court considers a reasonable fee. Then compare multiple attorneys -- many offer free consultations. Ask about payment plans, flat fees vs. hourly billing, and what is included in the quoted price.
-
-For the lowest possible cost, consider filing without a lawyer or contacting legal aid for free representation.
-
-Frequently Asked Questions
-
-What is the average cost to file bankruptcy in 2026?
-
-The average cost to file Chapter 7 bankruptcy is approximately $1,800 total (filing fee + attorney + counseling). Chapter 13 averages about $4,200 in fees, with attorney fees paid through the repayment plan. Costs vary significantly by state and city.
-
-How much is it to file bankruptcy in a cheap state?
-
-In the least expensive states and rural areas, Chapter 7 can cost as little as $900-$1,200 total. Some attorneys in low-cost areas charge $500-$800 for straightforward Chapter 7 cases.
-
-How much does filing bankruptcy cost if I do it myself?
-
-Filing pro se reduces your cost to approximately $368-$438 total -- just the $338 filing fee plus $30-$100 for the two required credit counseling courses. The filing fee may be waived for low-income filers.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-
-Free Discharge Screener
-
-About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code). District-level statistics from the Federal Judicial Center Integrated Database. This is educational content, not legal advice.
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener
-How Much Does Bankruptcy Cost
-
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project.
+No ads. No affiliate links. No data sold. Supported by donations.
