@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://bankruptcycost.org/sitemap.xml
+
+Sitemap: https://bankruptcycost.org/sitemapindex.xml
