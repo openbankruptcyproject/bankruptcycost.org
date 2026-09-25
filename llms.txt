@@ -1,25 +1,66 @@
 # Bankruptcy Cost - How to Reduce What You Pay [2026 Guide]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> Complete breakdown of bankruptcy costs in 2026 - filing fees, attorney fees, credit counseling, and hidden costs. Compare Chapter 7 vs....
+> Complete breakdown of bankruptcy cost in 2026: federal filing fees, attorney fees, credit counseling, and hidden costs of filing bankruptcy.
 
 ## About
 bankruptcycost.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Bankruptcy Attorney Fees by State - National Averages - Bankruptcy Cost: https://bankruptcycost.org/attorney-fees-by-state.html
-- Bankruptcy Attorney Fees: What to Expect - bankruptcycost.org - Bankruptcy Cost: https://bankruptcycost.org/attorney-fees.html
-- Average Cost of Bankruptcy by State - Attorney Fees & Filing Costs [2026] - Bankruptcy Cost: https://bankruptcycost.org/average-cost-by-state.html
-- Chapter 13 Bankruptcy Cost - Attorney Fees, Filing Fees & Plan Payments: https://bankruptcycost.org/chapter-13-cost.html
-- Chapter 7 Bankruptcy Cost - Filing Fees, Attorney Fees & Total Cost: https://bankruptcycost.org/chapter-7-cost.html
-- The Cost of NOT Filing Bankruptcy - When Inaction Is More Expensive - Bankruptcy Cost: https://bankruptcycost.org/cost-of-doing-nothing.html
-- The Cost of NOT Filing Bankruptcy - bankruptcycost.org - Bankruptcy Cost: https://bankruptcycost.org/cost-of-not-filing.html
-- Can I File Bankruptcy for Free? Fee Waivers and Installment Plans - bankruptcycost.org - Bankruptcy Cost: https://bankruptcycost.org/fee-waiver.html
+- Bankruptcy Attorney Fees by State [2026]: National Averages and Rule 2016(a) Filings: https://bankruptcycost.org/attorney-fees-by-state.html
+- Bankruptcy Attorney Fees [2026]: $1,500-$3,500 Chapter 7 Range and 11 USC 329 Reasonableness Standard: https://bankruptcycost.org/attorney-fees.html
+- Average Cost of Bankruptcy by State - Attorney Fees &amp; Filing Costs [2026] - Bankruptcy Cost: https://bankruptcycost.org/average-cost-by-state.html
+- Chapter 13 Bankruptcy Cost - Attorney Fees, Filing Fees &amp; Plan Payments: https://bankruptcycost.org/chapter-13-cost.html
+- Chapter 7 Bankruptcy Cost - Filing Fees, Attorney Fees &amp; Total Cost: https://bankruptcycost.org/chapter-7-cost.html
+- Cost of Not Filing Bankruptcy [2026]: When Wage Garnishment and Judgment Interest Exceed Filing Cost: https://bankruptcycost.org/cost-of-doing-nothing.html
+- Cost of Not Filing Bankruptcy [2026]: Garnishment, Judgment Interest, and Long-Term Credit Damage: https://bankruptcycost.org/cost-of-not-filing.html
+- Bankruptcy Filing Fee Waiver [2026]: Form 103B Eligibility Under 28 USC 1930(f) and Installment Plans: https://bankruptcycost.org/fee-waiver.html
 - Bankruptcy Filing Fee Waiver - Income Requirements and Form 103B - Bankruptcy Cost: https://bankruptcycost.org/filing-fee-waiver.html
-- Bankruptcy Filing Fees by Chapter (2024-2026) - bankruptcycost.org - Bankruptcy Cost: https://bankruptcycost.org/filing-fees.html
-- Hidden Costs of Bankruptcy You Should Know About - bankruptcycost.org - Bankruptcy Cost: https://bankruptcycost.org/hidden-costs.html
+- Bankruptcy Filing Fees [2026]: Chapter 7 ($338), Chapter 13 ($313), Chapter 11 ($1,738) Under 28 USC 1930: https://bankruptcycost.org/filing-fees.html
+- Hidden Costs of Bankruptcy [2026]: Credit Counseling, Debtor Education, and Property Valuations: https://bankruptcycost.org/hidden-costs.html
 - Bankruptcy Cost - How to Reduce What You Pay: https://bankruptcycost.org/
 - Privacy Policy: https://bankruptcycost.org/privacy.html
+- About bankruptcycost.org: https://bankruptcycost.org/about.html
+- Bankruptcy Cost in the Central District of California: https://bankruptcycost.org/districts/central-district-of-california.html
+- Bankruptcy Cost in the District of Connecticut: https://bankruptcycost.org/districts/district-of-connecticut.html
+- Bankruptcy Cost in the District of Delaware: https://bankruptcycost.org/districts/district-of-delaware.html
+- Bankruptcy Cost in the District of Kansas: https://bankruptcycost.org/districts/district-of-kansas.html
+- Bankruptcy Cost in the District of Maryland: https://bankruptcycost.org/districts/district-of-maryland.html
+- Bankruptcy Cost in the District of Massachusetts: https://bankruptcycost.org/districts/district-of-massachusetts.html
+- Bankruptcy Cost in the District of Minnesota: https://bankruptcycost.org/districts/district-of-minnesota.html
+- Bankruptcy Cost in the District of Nevada: https://bankruptcycost.org/districts/district-of-nevada.html
+- Bankruptcy Cost in the District of New Jersey: https://bankruptcycost.org/districts/district-of-new-jersey.html
+- Bankruptcy Cost in the District of South Carolina: https://bankruptcycost.org/districts/district-of-south-carolina.html
+- Bankruptcy Cost in the Eastern District of Arkansas: https://bankruptcycost.org/districts/eastern-district-of-arkansas.html
+- Bankruptcy Cost in the Eastern District of California: https://bankruptcycost.org/districts/eastern-district-of-california.html
+- Bankruptcy Cost in the Eastern District of Kentucky: https://bankruptcycost.org/districts/eastern-district-of-kentucky.html
+- Bankruptcy Cost in the Eastern District of Michigan: https://bankruptcycost.org/districts/eastern-district-of-michigan.html
+- Bankruptcy Cost in the Eastern District of Missouri: https://bankruptcycost.org/districts/eastern-district-of-missouri.html
+- Bankruptcy Cost in the Eastern District of New York: https://bankruptcycost.org/districts/eastern-district-of-new-york.html
+- Bankruptcy Cost in the Eastern District of North Carolina: https://bankruptcycost.org/districts/eastern-district-of-north-carolina.html
+- Bankruptcy Cost in the Eastern District of Pennsylvania: https://bankruptcycost.org/districts/eastern-district-of-pennsylvania.html
+- Bankruptcy Cost in the Eastern District of Virginia: https://bankruptcycost.org/districts/eastern-district-of-virginia.html
+- Bankruptcy Cost in the Eastern District of Wisconsin: https://bankruptcycost.org/districts/eastern-district-of-wisconsin.html
+- Bankruptcy Cost by Federal District: https://bankruptcycost.org/districts/
+- Bankruptcy Cost in the Middle District of Alabama: https://bankruptcycost.org/districts/middle-district-of-alabama.html
+- Bankruptcy Cost in the Middle District of Florida: https://bankruptcycost.org/districts/middle-district-of-florida.html
+- Bankruptcy Cost in the Middle District of North Carolina: https://bankruptcycost.org/districts/middle-district-of-north-carolina.html
+- Bankruptcy Cost in the Northern District of Alabama: https://bankruptcycost.org/districts/northern-district-of-alabama.html
+- Bankruptcy Cost in the Northern District of Florida: https://bankruptcycost.org/districts/northern-district-of-florida.html
+- Bankruptcy Cost in the Northern District of Georgia: https://bankruptcycost.org/districts/northern-district-of-georgia.html
+- Bankruptcy Cost in the Northern District of Illinois: https://bankruptcycost.org/districts/northern-district-of-illinois.html
+- Bankruptcy Cost in the Northern District of Indiana: https://bankruptcycost.org/districts/northern-district-of-indiana.html
+- Bankruptcy Cost in the Northern District of Ohio: https://bankruptcycost.org/districts/northern-district-of-ohio.html
+- Bankruptcy Cost in the Northern District of Texas: https://bankruptcycost.org/districts/northern-district-of-texas.html
+- Bankruptcy Cost in the Southern District of California: https://bankruptcycost.org/districts/southern-district-of-california.html
+- Bankruptcy Cost in the Southern District of Florida: https://bankruptcycost.org/districts/southern-district-of-florida.html
+- Bankruptcy Cost in the Southern District of Indiana: https://bankruptcycost.org/districts/southern-district-of-indiana.html
+- Bankruptcy Cost in the Southern District of Ohio: https://bankruptcycost.org/districts/southern-district-of-ohio.html
+- Bankruptcy Cost in the Southern District of Texas: https://bankruptcycost.org/districts/southern-district-of-texas.html
+- Bankruptcy Cost in the Western District of Arkansas: https://bankruptcycost.org/districts/western-district-of-arkansas.html
+- Bankruptcy Cost in the Western District of Kentucky: https://bankruptcycost.org/districts/western-district-of-kentucky.html
+- Bankruptcy Cost in the Western District of Missouri: https://bankruptcycost.org/districts/western-district-of-missouri.html
+- Bankruptcy Cost in the Western District of Tennessee: https://bankruptcycost.org/districts/western-district-of-tennessee.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
